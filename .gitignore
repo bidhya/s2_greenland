@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom ignores
+ancillary/
+s2_greenland_job.py
